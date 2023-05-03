@@ -1,2 +1,1 @@
-# tic-tac-toe
-This game is built in python and need a lot of modifications. Any developer is free to update the code and make it look cool.
+![image](https://user-images.githubusercontent.com/46023761/235854495-bfdfbfbc-502f-47f0-b111-65104c0a47b7.png)
